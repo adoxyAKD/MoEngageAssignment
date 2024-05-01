@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MoEngageAssignment" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryBlue</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDarkBlue</item>
+        <item name="colorSecondary">@color/colorAccentBlue</item>
+<!--        <item name="android:textColorPrimary">@android:color/white</item> &lt;!&ndash; Set text color to white &ndash;&gt;-->
+    </style>
+
+    <style name="Theme.MoEngageAssignment" parent="Base.Theme.MoEngageAssignment" />
+</resources>
